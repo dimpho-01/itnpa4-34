@@ -1,2 +1,2 @@
 # itnpa4-34
-This repo is for ITNPA4-34 Project
+Deployment for the design in Questions 1 & 2
